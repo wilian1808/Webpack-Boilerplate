@@ -1,0 +1,23 @@
+@import "./configs/fonts";
+@import "./configs/reset";
+
+body {
+    background-color: sandybrown;
+    background-size: contain;
+}
+
+.nosotros {
+    margin: 1em auto 1em;    
+    background-color: #cd3f3e;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__image {
+        display: block;
+        height: 100%;
+        display: block;
+    }
+}

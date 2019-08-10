@@ -1,0 +1,7 @@
+# carpetas
+node_modules
+dist
+
+# files
+main.go
+yarn-error.log
